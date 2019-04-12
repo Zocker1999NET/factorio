@@ -116,7 +116,7 @@ let rec gui_icon alt =
             done;
             src
     in
-    let src = "https://wiki.factorio.com/images/"^src^".png" in
+    let src = "images/"^src^".png" in
     let href =
       match Hashtbl.find special_hrefs alt with
         | href ->

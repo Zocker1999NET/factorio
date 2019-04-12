@@ -58,3 +58,6 @@ This will compile the project and regenerate `factorio.js`.
 
 Factorio Planner is released under the MIT license.
 See the `LICENSE` file.
+
+The images included are extracted from the official Factorio Wiki (see: https://wiki.factorio.com)
+released and also distributed here under the Creative Commons BY-NC-SA 3.0 License, see https://creativecommons.org/licenses/by-nc-sa/3.0/.
